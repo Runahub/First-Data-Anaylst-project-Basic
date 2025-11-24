@@ -1,22 +1,50 @@
-📊 Vrinda Store – Annual Sales Report 2022 (Excel Dashboard Project)
-This project presents a complete analysis of Vrinda Store’s 2022 annual sales data using Microsoft Excel. The main goal of the project is to help Vrinda Store understand customer purchasing patterns, identify high-performing months, and make informed business decisions to improve sales in 2023.
+📊 Vrinda Store – Annual Sales Report 2022
+Excel Dashboard Project | Pivot Tables, Charts & Analysis
 
-📌 Project Overview
-I used Excel to clean, analyze, and visualize the sales dataset. The dashboard includes:
-Pivot Tables for structured data analysis
-Pivot Charts to visualize trends
-Slicers for interactive filtering
-Combined charts for comparing total sales vs total orders
-Customer segmentation based on gender
+This project is inspired by the Rishabh Mishra YouTube tutorial, where I recreated a complete Annual Sales Report for Vrinda Store (2022) using Excel.
+The goal is to analyze customer behavior, understand monthly performance, and help plan better sales strategies for 2023.
 
-Through this dashboard, Vrinda Store can quickly review annual performance and understand their customer base.
+🔥 Project Objective
 
-🔍 Key Insights
-Monthly Trends: Identified which months recorded the highest sales and orders.
-Customer Demographics: Analyzed whether men or women purchased more during the year.
-Sales vs Orders Comparison: A clear chart that shows how orders and revenue moved throughout the year.
-Category-level Contribution: Insights into which product categories contributed the most.
+Vrinda Store wants to understand their 2022 sales performance to make stronger business decisions in 2023.
+This dashboard helps them answer key business questions like:
+Which months had the highest sales and orders?
+Who purchased more — men or women?
+What are the major product categories?
+How do sales and orders compare throughout the year?
 
-🎯 Objective
+🛠 Tools & Techniques Used
+MS Excel / WPS Office
+Pivot Tables
+Pivot Charts
+Slicers
+Data Cleaning (Removing duplicates, formatting data)
+Dashboard Design (Single-page interactive view)
 
-The objective of this project is to create a clear, interactive, and actionable Annual Sales Report for 2022, enabling Vrinda Store to plan better strategies and grow more sales in 2023.
+📈 Key Insights
+Best-performing months for sales and orders identified.
+Women customers purchased more compared to men.
+A clear Sales vs Orders combined chart shows demand patterns.
+Product-wise analysis reveals top-performing categories.
+
+🧩 Dashboard Features
+Interactive slicers
+Monthly performance summary
+Customer demographic comparison
+Category-wise breakdown
+Clean and easy-to-read visual layout
+
+📁 Repository Structure
+📂 Vrinda-Store-Annual-Sales-Report
+   ├── Vrinda_Store_2022_Dashboard.xlsx
+   ├── README.md
+
+🚀 How to Open the File
+Download the .xlsx file from this repo
+Open in Excel or WPS Office
+Use slicers and charts to explore insights
+
+🙌 Credits
+Project idea and guidance inspired by Rishabh Mishra’s YouTube tutorial
+Dashboard recreated and analyzed by me for learning and practice
+
